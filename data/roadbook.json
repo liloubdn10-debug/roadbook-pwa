@@ -1,1 +1,20 @@
-
+{
+  "title": "Roadbook Albanie",
+  "subtitle": "Version famille • Offline • iPhone",
+  "days": [
+    {
+      "day": "Jour 1",
+      "title": "Tirana → Berat",
+      "description": "Arrivée, récupération voiture, route vers Berat.",
+      "map": "https://maps.google.com/?q=Berat",
+      "checklist": ["Passeports", "Permis", "Cash", "Eau"]
+    },
+    {
+      "day": "Jour 2",
+      "title": "Berat (visite)",
+      "description": "Vieille ville, château, ruelles et points de vue.",
+      "map": "https://maps.google.com/?q=Berat+Castle",
+      "checklist": ["Chaussures confort", "Batterie externe"]
+    }
+  ]
+}
